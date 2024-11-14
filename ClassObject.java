@@ -1,4 +1,5 @@
 class Warung{
+    //masukkan variabe
     String namaBarang;
     int harga;
 
